@@ -1,0 +1,29 @@
+.container {
+  padding-top:50px;
+}
+
+.panel-body button {
+  margin-right:5px;
+}
+
+.panel-body span {
+  width:50px; height:50px;background:red;display:inline-block;margin-right:3px;cursor:pointer;
+}
+
+.result {
+  margin-top:10px;
+}
+
+.result p {
+  font-weight:bold;
+}
+
+.result div {
+  border:1px solid black;padding:10px;border-radius:5px;font-weight:bold;background:red;color:white;
+}
+
+.active {
+  border:2px solid black;
+  color:red;
+  background-color:yellow;
+}

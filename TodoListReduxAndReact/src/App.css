@@ -1,0 +1,28 @@
+.addCV {
+	position:relative;
+}
+.addCV span {
+	position:absolute;
+	right:20px;
+	top:12px;
+	cursor:pointer;
+}
+
+.addCV span:hover{
+	color:red;
+}
+.addCV h3 {
+	font-weight:bold;
+}
+
+.mt-15 {
+	margin-top:15px;
+}
+
+.mr-5 {
+	margin-right:5px;
+}
+
+.ml-5 {
+	margin-left:5px;
+}
